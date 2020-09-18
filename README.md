@@ -1,4 +1,4 @@
-#Cron line parser
+# Cron line parser
 
 This repository contains simple implementation of cron line parser.
 
