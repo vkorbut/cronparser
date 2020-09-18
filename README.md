@@ -14,12 +14,14 @@ It doesn't handle the special time strings such as "@yearly".
   
 ## Run the application
 
-### Compilation
+### Requirements
 
 In order to compile the project the following applications should be installed:
  - JDK 1.8 or higher 
  - [sbt](https://www.scala-sbt.org/download.html)
  
+### Running commands
+
 To run the program run following command
 ```
 > ./run.sh "<CronString>"
